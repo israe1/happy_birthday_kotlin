@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">HappyBirthday</string>
+    <string name="hbd_message">Happy Birthday, Israel</string>
+    <string name="signature">From Me.</string>
 </resources>
